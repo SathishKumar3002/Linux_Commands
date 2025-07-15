@@ -1,0 +1,12 @@
+Command			Description
+	
+ls			List files and directories
+cd			Change directory
+pwd			Print working directory
+mkdir dir		Create a new directory
+touch file.txt		Create a new file
+cp file1 file2		Copy a file
+mv file1 file2		Rename or move a file
+rm file.txt		Remove a file
+rmdir dir		Remove empty directory
+rm -r dir		Remove directory and contents
