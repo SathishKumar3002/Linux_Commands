@@ -10,3 +10,21 @@ mv file1 file2		Rename or move a file
 rm file.txt		Remove a file
 rmdir dir		Remove empty directory
 rm -r dir		Remove directory and contents
+cat file		Display file contents
+less file		View large file with scrolling
+head file		First 10 lines
+tail file		Last 10 lines
+tail -f file		View file liv
+chmod 755 file		Change file permissions
+chown user:group file	Change file owner and group
+ls -l			View detailed file info
+
+
+uname -a		Kernel & OS info
+top			Live system processes
+htop			Enhanced version of top
+df -h			Disk space usage
+du -sh *		Folder sizes
+free -h			RAM usage
+uptime			How long the system has been on
+whoami			Show current user
